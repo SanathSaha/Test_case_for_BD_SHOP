@@ -3,6 +3,6 @@ I worked on sign-in and sign-up pages when I wrote a test case. I found some iss
 
 ## Report for test case
 
-<img src="C:\Users\User\Desktop\Test-report.png">
+![alt text](C:\Users\User\Desktop\Test-report.png)
 
 
